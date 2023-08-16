@@ -1,1 +1,1 @@
-# ViPC-text and code coming soon.
+# Code coming soon.
